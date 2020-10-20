@@ -1,0 +1,111 @@
+body {
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: 'Work Sans', sans-serif;
+}
+
+span {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: lighter;
+}
+
+p {
+  font-family: 'Work Sans', sans-serif;
+  color: white;
+}
+
+/* Container and heading */
+.container-fluid {
+  text-align: left;
+  padding: 3% 15%;
+  color: white;
+}
+.big-heading {
+  color: white;
+  padding-top: 30px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+/* Image */
+.image-cls {
+  width: 489px;
+  height: 380px;
+  margin: auto;
+border-radius: 25px;
+  box-shadow: 10px 10px 10px 0;
+}
+.new-img{
+  width: 580px;
+  height: 386px;
+}
+/* Sections */
+.img-section {
+  background-image: url(backgrd.jpg);
+}
+.colored-section {
+  background-color: #132743;
+  padding-bottom: 20px;
+}
+.footing-section{
+  text-align: center;
+}
+
+/* Navbar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.btn-nav {
+  margin: 0 18px;
+}
+
+.nav-item {
+  padding: 0 15px;
+  font-family: 'Work Sans', sans-serif;
+}
+.navbar-brand {
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+/* Buttons */
+
+.btn-title {
+  margin: 5% 3% 5% 0;
+}
+/* Description */
+.detail-box {
+  padding: 3%;
+  border-style: groove;
+}
+/* Logos */
+.icon {
+  margin: 20px;
+  color: white;
+}
+
+.icon:hover {
+  color: #158467;
+}
+.footer-icon{
+  margin: 45px;
+padding: 5px;
+}
+.footer-icon:hover{
+  color: #158467;
+}
+.footer-icon1{
+  margin: 10px;
+}
+.footer-icon1:hover{
+  color: black;
+}
+/* Footer */
+.footer{
+padding: 3% 20%;
+
+}
